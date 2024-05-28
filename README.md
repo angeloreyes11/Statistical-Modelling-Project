@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# City Bikes API - Statistical Modelling Project
 
 ## Project/Goals
 
